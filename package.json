@@ -1,0 +1,10 @@
+{
+  "name": "language-css",
+  "version": "0.1.0",
+  "description": "CSS language support in SilkEdit",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:silkedit/language-css.git"
+  },
+  "license": "MIT"
+}
